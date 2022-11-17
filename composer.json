@@ -1,7 +1,6 @@
 {
   "name": "jurosh/pdf-merge",
   "description": "PHP PDF Merger",
-  "version": "2.1.0",
   "keywords": [
     "pdf",
     "merge"
